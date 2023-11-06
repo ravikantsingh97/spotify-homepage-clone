@@ -14,6 +14,11 @@
 .top {
   background-color: #1d75de;
   font-size: 1.6rem;
+  display: block;
+}
+
+.cross{
+  cursor: pointer;
 }
 
 .top article {
