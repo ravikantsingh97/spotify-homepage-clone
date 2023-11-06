@@ -334,6 +334,10 @@ button {
   font-size: 1.6rem;
 }
 
+.title span{
+  cursor: pointer;
+}
+
 .got-question .title h6:hover {
   text-decoration: underline;
 }
